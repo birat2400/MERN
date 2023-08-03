@@ -43,10 +43,69 @@
 //     console.log(a);
 // a++;
 // }
-let a=0;
-do{
+// let a=0;
+// do{
 
-    console.log(a);
-a++;
-}
-while(a<=10);
+//     console.log(a);
+// a++;
+// }
+// while(a<=10);
+
+// // ES5
+// function home(){
+//     console.log("hello world");
+// }
+
+// home();
+
+// // ES6
+
+// const hello = ()=> {}
+
+
+
+// // Function that says hello
+
+// const hello = () => 
+// {
+// console.log("hello")
+// }
+// hello();
+
+// // function to say hello to user
+
+// const user=(name)=>{
+//     console.log("hello", name);
+// }
+// user("Birat");
+
+// // function to add two Number
+
+// const sum =(a,b)=>{
+//  if (a>0 && b>0){   
+//     return a+b;
+// }
+// return "negetive number";
+// } 
+// const val =sum(2,3);
+// console.log(val);
+
+// const val1 = sum(-2,3);
+// console.log(val1);
+
+// const names = prompt("enter your name");
+// console.log(names);
+
+// const age = Number(prompt("enter your age"));
+// console.log(age);
+
+// const date = new Date();
+// console.log(date);
+
+
+
+
+
+
+
+
