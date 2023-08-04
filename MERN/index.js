@@ -102,7 +102,29 @@
 // const date = new Date();
 // console.log(date);
 
+// const car={
+// model: "ember",
+// brand: "suzuki",
+// lunchDate: "2014",
 
+// carInfo :{
+//  2023 - Number(lunchDate)  
+
+// }
+// }
+
+// // const model1 = car.model;
+// // const info = prompt("enter todays year");
+// const age = car.carInfo;
+// console.log(age);
+
+
+// const sum= {
+//     a: prompt("enter Anumber"),
+//     b: prompt("enter 2nd no")
+// }
+// const num = Number(sum.a) + Number ( sum.b);
+// console.log(num);
 
 
 
