@@ -125,7 +125,97 @@
 // }
 // const num = Number(sum.a) + Number ( sum.b);
 // console.log(num);
+_______________________________________________________________________
+// const car={
+// model: "ember",
+// brand: "suzuki",
+// lunchDate: "2014",
 
+// carInfo :{
+//  2023 - Number(lunchDate)  
+
+// }
+// }
+
+// // const model1 = car.model;
+// // const info = prompt("enter todays year");
+// const age = car.carInfo;
+// console.log(age);
+
+
+// const sum= {
+//     a: prompt("enter Anumber"),
+//     b: prompt("enter 2nd no")
+// }
+// const num = Number(sum.a) + Number ( sum.b);
+// console.log(num);
+    
+// const car={
+//     model:"zzx",
+//     brand:"honda",
+//     lunch:"2010",
+//     currentDate: prompt("Enter todays date"),
+
+// detail :(about)=> {
+// return this.currentDate - this.lunch;
+// }}
+
+
+// const about = car.detail
+// console.log(about);
+
+
+// const day ={
+//    week: ["sunday","monday","tuesday"],
+//    date: [1,2,3,4,5,6,7,8],
+//    number: "100",
+// calculate: ()=>{
+// return 10 + Number(day.number);
+// }
+
+// }
+// const week1 = day.week;
+// console.log(day.calculate());
+
+
+// const phone={
+//     brand: "realme",
+//     model: "9",
+//     lunched: "2001",
+
+//     calculate_howOld : ()=>
+//     {
+//        return phone.current_year - Number(phone.lunched); 
+//     }
+// }
+// phone.current_year = prompt("enter todays year");
+
+// console.log(phone.brand, phone.model, phone.calculate_howOld());
+
+
+// const product =
+// {
+//     a: 10,
+//     b: 20,
+// c:()=>{
+//  return product.a * product.b;
+// }
+// }
+
+// console.log(product.c());
+
+
+// const temp={
+//    name: "kelvin", 
+//    kelvin: "274.15",
+//   current_tempeture : ()=> 
+//   {
+//    return temp.celcius * Number(temp.kelvin); 
+// }}
+
+// temp.celcius = prompt("Enter the tempture in celcius");
+
+// console.log(temp.current_tempeture(), temp.name);
 
 
 
