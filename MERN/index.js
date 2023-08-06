@@ -217,7 +217,27 @@ _______________________________________________________________________
 
 // console.log(temp.current_tempeture(), temp.name);
 
+// const arr = [Name : "birat","shrestha","me","he","man"]
+// // console.log(arr);
 
+
+// const person =[
+// {name: "birat", age:10},
+// {name: "shrestha", age:20},
+// {name: "me", age:5}
+
+// ];
+// const age = person.short((a,b) =>{
+//     return a.age - b.age;
+// });
+
+// // console.log(age);
+
+// const newperson1 = person.map((person) => {
+//     return person.name})
+// ;
+
+// console.log(newperson1);
 
 
 
